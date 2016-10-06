@@ -9,9 +9,11 @@ Welcome to Read the Docs Template's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth:
+   :maxdepth: 2
+   :glob:
 
-   Authors
+   Authors*
+   *
 
 
 
