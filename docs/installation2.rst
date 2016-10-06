@@ -1,6 +1,6 @@
-============
-Installation
-============
+=============
+Installation2
+=============
 
 Install the package with pip::
 
