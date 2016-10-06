@@ -39,3 +39,12 @@ License
 -------
 
 The project is licensed under the BSD license.
+
+Test
+----
+
+* http://sphinx-doc.org/
+* `github <https://github.com>`_
+* Sphinx-users.jp_
+
+.. _Sphinx-users.jp: http://sphinx-users.jp/
