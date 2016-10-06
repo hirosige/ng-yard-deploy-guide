@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe642bb7-4712-454e-98ca-deb3945a72ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/chapter2/img/test.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/chapter2/access.rst" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/contributing.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/history.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/installation.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/readme.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/usage.rst" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/chapter2/access.rst" afterPath="$PROJECT_DIR$/docs/chapter2/connect_server.rst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.rst" afterPath="$PROJECT_DIR$/docs/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/chapter1/access.rst" afterPath="$PROJECT_DIR$/docs/chapter1/access.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,21 +22,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="access.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/chapter1/access.rst">
+      <file leaf-file-name="authors.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/authors.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="access.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/chapter1/access.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,6 +72,7 @@
         <option value="$PROJECT_DIR$/docs/open.rst" />
         <option value="$PROJECT_DIR$/docs/access.rst" />
         <option value="$PROJECT_DIR$/docs/index.rst" />
+        <option value="$PROJECT_DIR$/docs/chapter1/access.rst" />
       </list>
     </option>
   </component>
@@ -123,6 +128,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="engine-yard-deploy-guide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="engine-yard-deploy-guide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -596,18 +619,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/chapter1/access.rst">
+    <entry file="file://$PROJECT_DIR$/docs/index.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.rst">
+    <entry file="file://$PROJECT_DIR$/docs/chapter1/access.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
