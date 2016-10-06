@@ -48,3 +48,16 @@ Test
 * Sphinx-users.jp_
 
 .. _Sphinx-users.jp: http://sphinx-users.jp/
+
+:download:`このファイル <img/test.jpg>`
+.. image::`このファイル <img/test.jpg>`
+.. figure::`このファイル <img/test.jpg>`
+
+.. note::
+
+    これは注釈です！Test
+
+.. warning::
+
+    これは警告です！Test
+
