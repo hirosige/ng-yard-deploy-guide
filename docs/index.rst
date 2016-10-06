@@ -14,8 +14,7 @@ Contents:
    :glob:
 
    Authors*
-   access*
-
+   chapter1/*
 
 
 Indices and tables
