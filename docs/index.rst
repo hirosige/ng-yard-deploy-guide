@@ -13,7 +13,6 @@ Contents:
    :glob:
 
    Authors*
-   *
 
 
 
