@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe642bb7-4712-454e-98ca-deb3945a72ce" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/access.rst" afterPath="$PROJECT_DIR$/docs/chapter1/access.rst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/img/test.jpg" afterPath="$PROJECT_DIR$/docs/chapter1/img/test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/chapter2/img/test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/chapter2/access.rst" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/contributing.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/history.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/installation.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/readme.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/usage.rst" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.rst" afterPath="$PROJECT_DIR$/docs/index.rst" />
     </list>
@@ -23,21 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/index.rst">
+      <file leaf-file-name="access.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/chapter1/access.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="access.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/chapter1/access.rst">
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+            <state relative-caret-position="318">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,24 +123,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine-yard-deploy-guide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine-yard-deploy-guide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -611,16 +598,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/chapter1/access.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+        <state relative-caret-position="324">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="318">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>

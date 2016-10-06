@@ -15,6 +15,7 @@ Contents:
 
    Authors*
    chapter1/*
+   chapter2/*
 
 
 Indices and tables
