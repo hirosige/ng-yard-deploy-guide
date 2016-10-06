@@ -1,11 +1,9 @@
-Connect Server with SSH
-=======================
+Access Engine Yard
+==================
 
 First of all,
 You need to access Engine Yard Admin Page.
 Jump into the below link
-
-
 
 Look how easy it is to use::
 
