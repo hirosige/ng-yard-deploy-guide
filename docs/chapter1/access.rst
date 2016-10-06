@@ -2,9 +2,9 @@
 Access Engine Yard
 ==================
 
-First of all,
-You need to access Engine Yard Admin Page.
-Jump into the below link
+|First of all,
+|You need to access Engine Yard Admin Page.
+|Jump into the below link
 
 Look how easy it is to use::
 
@@ -12,37 +12,32 @@ Look how easy it is to use::
     # Get your stuff done
     project.do_stuff()
 
-Features
---------
+Login
+-----
 
 - Be awesome
 - Make things faster
 
-Installation
-------------
+Description of Server
+---------------------
 
 Install $project by running:
 
     install project
 
-Contribute
-----------
+Get into Server
+---------------
 
 - Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
 
-Support
--------
+Detailed information of Server
+------------------------------
 
 If you are having issues, please let us know.
 We have a mailing list located at: project@google-groups.com
 
-License
--------
-
-The project is licensed under the BSD license.
-
-Test
+Tips
 ----
 
 * http://sphinx-doc.org/
