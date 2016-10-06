@@ -1,8 +1,11 @@
 Access Engine Yard
 ==================
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+First of all,
+You need to access Engine Yard Admin Page.
+Jump into the below link
+
+
 
 Look how easy it is to use::
 
@@ -50,8 +53,8 @@ Test
 .. _Sphinx-users.jp: http://sphinx-users.jp/
 
 :download:`このファイル <img/test.jpg>`
-.. image::`このファイル <img/test.jpg>`
-.. figure::`このファイル <img/test.jpg>`
+.. image:: img/test.jpg
+.. figure::この ファimg/test.jpg
 
 .. note::
 
