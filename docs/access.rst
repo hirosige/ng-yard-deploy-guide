@@ -53,8 +53,11 @@ Test
 .. _Sphinx-users.jp: http://sphinx-users.jp/
 
 :download:`このファイル <img/test.jpg>`
+
 .. image:: img/test.jpg
+
 .. figure::この ファimg/test.jpg
+
 
 .. note::
 
